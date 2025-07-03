@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @vaishnavjai
 - 👀 I’m interested in AI, Robotics, Network Technology and Cloud Computing
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning RTOS
 - 💞️ I’m looking to collaborate on Beginner Friendly Projects
 - 📫 How to reach me vaishnavjaideep10@gmail.com
 - 😄 Pronouns: he/him
