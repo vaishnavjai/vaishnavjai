@@ -1,10 +1,9 @@
 - 👋 Hi, I’m @vaishnavjai
 - 👀 I’m interested in AI, Robotics, Network Technology and Cloud Computing
-- 🌱 I’m currently learning RTOS
-- 💞️ I’m looking to collaborate on Beginner Friendly Projects
-- 📫 How to reach me vaishnavjaideep10@gmail.com
+- 🌱 I’m currently learning ML, Computer Vision, and LLM fine-tuning
+- 📫 How to reach me: vaishnavjaideep10@gmail.com 
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I'm an Automation and Robotics Student!
+- ⚡ Fun fact: I want to change the world one commit at a time
 
 <!---
 vaishnavjai/vaishnavjai is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
